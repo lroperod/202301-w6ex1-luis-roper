@@ -7,9 +7,9 @@ root = true
 
 [*]
 indent_style = space
-indent_size = 2
+indent_size = 
 end_of_line = lf
 charset = utf-8
 insert_final_newline = true
 [*.{js,ts}]
-quote_type = single
+quote_type = double
